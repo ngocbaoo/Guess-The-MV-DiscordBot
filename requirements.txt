@@ -1,0 +1,18 @@
+# Crawler dependencies.
+# ffmpeg is a SYSTEM binary (must be on PATH) -- not a pip package.
+#
+# Intentionally NOT pinned: yt-dlp breaks whenever YouTube changes its
+# backend, so you will routinely need the newest build. If extract fails,
+# run:  pip install -U yt-dlp
+yt-dlp
+
+# Test runner
+pytest
+
+# --- Bot runtime (game logic + Discord) ---
+# discord.py: slash commands, message edits, MC buttons.
+# rapidfuzz: fuzzy typing match (>=80% similarity).
+# regex: grapheme-cluster (\X) masking of titles.
+discord.py
+rapidfuzz
+regex

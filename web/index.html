@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MV Search Tool — songs.json Filler</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/web/style.css">
+</head>
+<body>
+  <!-- ── BACKGROUND EFFECTS ── -->
+  <div class="bg-gradient"></div>
+  <div class="bg-noise"></div>
+
+  <!-- ── HEADER ── -->
+  <header class="header">
+    <div class="header-content">
+      <div class="logo">
+        <div class="logo-icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polygon points="5 3 19 12 5 21 5 3"/>
+          </svg>
+        </div>
+        <div>
+          <h1>MV Search Tool</h1>
+          <p class="subtitle">YouTube → songs.json</p>
+        </div>
+      </div>
+      <div class="stats" id="stats">
+        <div class="stat-item">
+          <span class="stat-value" id="stat-filled">—</span>
+          <span class="stat-label">Đã có</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-value" id="stat-empty">—</span>
+          <span class="stat-label">Slot trống</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── MAIN CONTENT ── -->
+  <main class="main">
+    <!-- SEARCH SECTION -->
+    <section class="search-section">
+      <div class="search-card glass">
+        <div class="search-header">
+          <h2>Tìm kiếm MV</h2>
+          <p>Nhập tên nghệ sĩ để tìm tất cả MV trên YouTube</p>
+        </div>
+        <div class="search-input-group">
+          <div class="search-input-wrapper">
+            <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <input type="text" id="artist-input" placeholder="Nhập tên nghệ sĩ... (VD: Sơn Tùng M-TP)" autocomplete="off">
+          </div>
+          <button id="search-btn" class="btn btn-primary" onclick="searchArtist()">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <span>Tìm kiếm</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- LOADING -->
+    <section class="loading-section" id="loading-section" style="display:none;">
+      <div class="loading-card glass">
+        <div class="spinner"></div>
+        <h3>Đang tìm kiếm MV...</h3>
+        <p id="loading-text">Tìm với 10 biến thể keyword (MV, Official MV, M/V...)</p>
+        <div class="progress-bar">
+          <div class="progress-fill" id="progress-fill"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- RESULTS SECTION -->
+    <section class="results-section" id="results-section" style="display:none;">
+      <!-- Toolbar -->
+      <div class="results-toolbar glass">
+        <div class="toolbar-left">
+          <h2 id="results-title">Kết quả</h2>
+          <span class="badge" id="results-count">0</span>
+        </div>
+        <div class="toolbar-right">
+          <button class="btn btn-ghost" onclick="selectAll()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <polyline points="9 11 12 14 22 4"/>
+              <path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>
+            </svg>
+            Chọn tất cả
+          </button>
+          <button class="btn btn-ghost" onclick="deselectAll()">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
+            </svg>
+            Bỏ chọn
+          </button>
+          <button class="btn btn-accent" id="add-btn" onclick="addSelected()" disabled>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"/>
+              <polyline points="17 21 17 13 7 13 7 21"/>
+              <polyline points="7 3 7 8 15 8"/>
+            </svg>
+            <span id="add-btn-text">Thêm vào songs.json</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Results Grid -->
+      <div class="results-grid" id="results-grid"></div>
+    </section>
+
+    <!-- TOAST -->
+    <div class="toast-container" id="toast-container"></div>
+  </main>
+
+  <script src="/web/app.js"></script>
+</body>
+</html>

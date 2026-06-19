@@ -1,0 +1,2838 @@
+[
+  {
+    "id": 1,
+    "title": "Hãy Trao Cho Anh",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=knW7-x7Y7RE",
+    "slug": "hay-trao-cho-anh",
+    "aliases": [
+      "Hay Trao Cho Anh",
+      "HTCA"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 2,
+    "title": "Chạy Ngay Đi",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=32sYGCOYJUM",
+    "slug": "chay-ngay-di",
+    "aliases": [
+      "Chay Ngay Di",
+      "CND"
+    ],
+    "year_override": 2017,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 3,
+    "title": "Âm Thầm Bên Em",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=30KI5SuECuc",
+    "slug": "am-tham-ben-em",
+    "aliases": [
+      "Am Tham Ben Em",
+      "ATBE"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 4,
+    "title": "Come My Way",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=SlQR9iu09bQ",
+    "slug": "come-my-way",
+    "aliases": [
+      "CMW"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 5,
+    "title": "Lạc Trôi",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=Llw9Q6akRo4",
+    "slug": "lac-troi",
+    "aliases": [
+      "lac troi"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 6,
+    "title": "Nơi Này Có Anh",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=FN7ALfpGxiI",
+    "slug": "noi-nay-co-anh",
+    "aliases": [
+      "noi nay co anh"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 7,
+    "title": "Đừng Làm Trái Tim Anh Đau",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=abPmZCZZrFA",
+    "slug": "dung-lam-trai-tim-anh-dau",
+    "aliases": [
+      "dung lam trai tim anh dau"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 8,
+    "title": "Buông Đôi Tay Nhau Ra",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=LCyo565N_5w",
+    "slug": "buong-doi-tay-nhau-ra",
+    "aliases": [
+      "buong doi tay nhau ra"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 9,
+    "title": "Chúng Ta Không Thuộc Về Nhau",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=qGRU3sRbaYw",
+    "slug": "chung-ta-khong-thuoc-ve-nhau",
+    "aliases": [
+      "chung ta khong thuoc ve nhau"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 10,
+    "title": "Có Chắc Yêu Là Đây",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=6t-MjBazs3o",
+    "slug": "co-chac-yeu-la-day",
+    "aliases": [
+      "co chac yeu la day"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 11,
+    "title": "Muộn Rồi Mà Sao Còn",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=xypzmu5mMPY",
+    "slug": "muon-roi-ma-sao-con",
+    "aliases": [
+      "muon roi ma sao con"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 12,
+    "title": "Chúng Ta Của Tương Lai",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=zoEtcR5EW08",
+    "slug": "chung-ta-cua-tuong-lai",
+    "aliases": [
+      "chung ta cua tuong lai"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 13,
+    "title": "Chúng Ta Của Hiện Tại",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=psZ1g9fMfeo",
+    "slug": "chung-ta-cua-hien-tai",
+    "aliases": [
+      "chung ta cua hien tai"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 14,
+    "title": "Chắc Ai Đó Sẽ Về",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=PdbsnGuduvo&pp=0gcJCT4LAYcqIYzv",
+    "slug": "chac-ai-do-se-ve",
+    "aliases": [
+      "chac ai do se ve"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 15,
+    "title": "There's No One At All",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=JHSRTU31T14",
+    "slug": "theres-no-one-at-all",
+    "aliases": [
+      "there is no one at all"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 16,
+    "title": "Một Năm Mới Bình An",
+    "artist": "Sơn Tùng M-TP",
+    "url": "https://www.youtube.com/watch?v=Thf6-faRGI4",
+    "slug": "mot-nam-moi-binh-an",
+    "aliases": [
+      "mot nam moi binh an"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 17,
+    "title": "Nếu Những Tiếc Nuối",
+    "artist": "Vũ.",
+    "url": "https://www.youtube.com/watch?v=e5Td3zrVdX4",
+    "slug": "neu-nhung-tiec-nuoi",
+    "aliases": [
+      "neu nhung tiec nuoi"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 18,
+    "title": "Bình Yên",
+    "artist": "Vũ. ft. Binz",
+    "url": "https://www.youtube.com/watch?v=f9P7_qWrf38",
+    "slug": "binh-yen",
+    "aliases": [
+      "binh yen"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 19,
+    "title": "Những Lời Hứa Bỏ Quên (Forgotten Promises)",
+    "artist": "Vũ. x Dear Jane",
+    "url": "https://www.youtube.com/watch?v=h6RONxjPBf4",
+    "slug": "nhung-loi-hua-bo-quen",
+    "aliases": [
+      "nhung loi hua bo quen",
+      "forgotten promises"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 20,
+    "title": "Bước Qua Nhau",
+    "artist": "Vũ.",
+    "url": "https://www.youtube.com/watch?v=ixdSsW5n2rI",
+    "slug": "buoc-qua-nhau",
+    "aliases": [
+      "buoc qua nhau"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 21,
+    "title": "Bước Qua Mùa Cô Đơn",
+    "artist": "Vũ.",
+    "url": "https://www.youtube.com/watch?v=n6Pnzi6r9NU",
+    "slug": "buoc-qua-mua-co-don",
+    "aliases": [
+      "buoc qua mua co don"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 22,
+    "title": "Cô Ta",
+    "artist": "Vũ.",
+    "url": "https://www.youtube.com/watch?v=lxBC4SYjb2I",
+    "slug": "co-ta",
+    "aliases": [
+      "co ta"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 23,
+    "title": "Mùa Hè Của Em",
+    "artist": "Vũ.",
+    "url": "https://www.youtube.com/watch?v=nIl_gX9W5qQ",
+    "slug": "mua-he-cua-em",
+    "aliases": [
+      "mua he cua em"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 24,
+    "title": "Chậm Lại",
+    "artist": "Vũ.",
+    "url": "https://www.youtube.com/watch?v=42fX4KKYNjQ",
+    "slug": "cham-lai",
+    "aliases": [
+      "cham lai"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 25,
+    "title": "Đã Từng Là",
+    "artist": "Vũ.",
+    "url": "https://www.youtube.com/watch?v=8mMADtcLHrc",
+    "slug": "da-tung-la",
+    "aliases": [
+      "da tung la"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 26,
+    "title": "Một Giấc Mơ",
+    "artist": "Vũ. ft. Kimmese",
+    "url": "https://www.youtube.com/watch?v=NdHSOup5mZM",
+    "slug": "mot-giac-mo",
+    "aliases": [
+      "mot giac mo"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 27,
+    "title": "Dành Hết Xuân Thì Để Chờ Nhau",
+    "artist": "Vũ. feat. Hà Anh Tuấn",
+    "url": "https://www.youtube.com/watch?v=ngbqjNPSMQk",
+    "slug": "danh-het-xuan-thi-de-cho-nhau",
+    "aliases": [
+      "danh het xuan thi de cho nhau"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 28,
+    "title": "Vị Nhà",
+    "artist": "Đen Vâu",
+    "url": "https://www.youtube.com/watch?v=Hqmbo0ROBQw",
+    "slug": "vi-nha",
+    "aliases": [
+      "vi nha"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 29,
+    "title": "Trốn Tìm",
+    "artist": "Đen Vâu ft. MTV",
+    "url": "https://www.youtube.com/watch?v=Ws-QlpSltr8",
+    "slug": "tron-tim",
+    "aliases": [
+      "tron tim"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 30,
+    "title": "Lãng Đãng",
+    "artist": "Đen Vâu ft. Nguyên Thảo",
+    "url": "https://www.youtube.com/watch?v=ZpPBozhojuo",
+    "slug": "lang-dang",
+    "aliases": [
+      "lang dang"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 31,
+    "title": "Lối Nhỏ",
+    "artist": "Đen Vâu ft. Phương Anh",
+    "url": "https://www.youtube.com/watch?v=KKc_RMln5UY",
+    "slug": "loi-nho",
+    "aliases": [
+      "loi nho"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 32,
+    "title": "Đi Về Nhà",
+    "artist": "Đen Vâu ft. JustaTee",
+    "url": "https://www.youtube.com/watch?v=vTJdVE_gjI0",
+    "slug": "di-ve-nha",
+    "aliases": [
+      "di ve nha"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 33,
+    "title": "Luôn Yêu Đời",
+    "artist": "Đen Vâu ft. Cheng",
+    "url": "https://www.youtube.com/watch?v=CnZxamAbSnw",
+    "slug": "luon-yeu-doi",
+    "aliases": [
+      "luon yeu doi"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 34,
+    "title": "Mười Năm",
+    "artist": "Đen Vâu ft. Ngọc Linh",
+    "url": "https://www.youtube.com/watch?v=L0NZW6pgSLc",
+    "slug": "muoi-nam",
+    "aliases": [
+      "muoi nam"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 35,
+    "title": "Nấu Ăn Cho Em",
+    "artist": "Đen Vâu ft. PiaLinh",
+    "url": "https://www.youtube.com/watch?v=ukHK1GVyr0I",
+    "slug": "nau-an-cho-em",
+    "aliases": [
+      "nau an cho em"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 36,
+    "title": "Bài Này Chill Phết",
+    "artist": "Đen Vâu ft. Min",
+    "url": "https://www.youtube.com/watch?v=ddaEtFOsFeM",
+    "slug": "bai-nay-chill-phet",
+    "aliases": [
+      "bai nay chill phet"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 37,
+    "title": "Đưa Nhau Đi Trốn",
+    "artist": "Đen Vâu ft. Linh Cáo",
+    "url": "https://www.youtube.com/watch?v=5e7e_KZINA4",
+    "slug": "dua-nhau-di-tron",
+    "aliases": [
+      "dua nhau di tron"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 38,
+    "title": "Mang Tiền Về Cho Mẹ",
+    "artist": "Đen Vâu ft. Nguyên Thảo",
+    "url": "https://www.youtube.com/watch?v=UVbv-PJXm14",
+    "slug": "mang-tien-ve-cho-me",
+    "aliases": [
+      "mang tien ve cho me"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 39,
+    "title": "một triệu like",
+    "artist": "Đen Vâu ft. Thành Đồng",
+    "url": "https://www.youtube.com/watch?v=oigiXW6XyCQ",
+    "slug": "mot-trieu-like",
+    "aliases": [
+      "mot trieu like"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 40,
+    "title": "Anh Đếch Cần Gì Nhiều Ngoài Em",
+    "artist": "Đen Vâu ft. Vũ., Thành Đồng",
+    "url": "https://www.youtube.com/watch?v=KdrbBJNFwGw",
+    "slug": "anh-dech-can-gi-nhieu-ngoai-em",
+    "aliases": [
+      "anh dech can gi nhieu ngoai em"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 41,
+    "title": "hai triệu năm",
+    "artist": "Đen Vâu ft. Biên",
+    "url": "https://www.youtube.com/watch?v=LSMDNL4n0kM",
+    "slug": "hai-trieu-nam",
+    "aliases": [
+      "hai trieu nam"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 42,
+    "title": "Việc Lớn",
+    "artist": "Đen Vâu ft. Dòng Thời Gian",
+    "url": "https://www.youtube.com/watch?v=dVX5pGOiLTo",
+    "slug": "viec-lon",
+    "aliases": [
+      "viec lon"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 43,
+    "title": "Mơ",
+    "artist": "Đen Vâu ft. Hậu Vi",
+    "url": "https://www.youtube.com/watch?v=0nn_fOjcYM0",
+    "slug": "mo",
+    "aliases": [
+      "mo"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 44,
+    "title": "Ai Muốn Nghe Không",
+    "artist": "Đen Vâu",
+    "url": "https://www.youtube.com/watch?v=JxBnLmCOEJ8",
+    "slug": "ai-muon-nghe-khong",
+    "aliases": [
+      "ai muon nghe khong"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 45,
+    "title": "Diễn Viên Tồi",
+    "artist": "Đen ft. Thành Bùi, Cadillac",
+    "url": "https://www.youtube.com/watch?v=7ICKkagL3xA",
+    "slug": "dien-vien-toi",
+    "aliases": [
+      "dien vien toi"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 46,
+    "title": "Đi Theo Bóng Mặt Trời",
+    "artist": "Đen ft. Giang Nguyễn",
+    "url": "https://www.youtube.com/watch?v=XszJkmsrccI",
+    "slug": "di-theo-bong-mat-troi",
+    "aliases": [
+      "di theo bong mat troi"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 47,
+    "title": "See Tình",
+    "artist": "Hoàng Thùy Linh",
+    "url": "https://www.youtube.com/watch?v=gJHSDZfJrRY",
+    "slug": "see-tinh",
+    "aliases": [
+      "see tinh"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 48,
+    "title": "Bo Xì Bo",
+    "artist": "Hoàng Thùy Linh",
+    "url": "https://www.youtube.com/watch?v=LxNzRN8EMcw",
+    "slug": "bo-xi-bo",
+    "aliases": [
+      "bo xi bo"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 49,
+    "title": "Để Mị Nói Cho Mà Nghe",
+    "artist": "Hoàng Thùy Linh",
+    "url": "https://www.youtube.com/watch?v=JAhdeizXpaQ",
+    "slug": "de-mi-noi-cho-ma-nghe",
+    "aliases": [
+      "de mi noi cho ma nghe"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 50,
+    "title": "Gieo Quẻ",
+    "artist": "Hoàng Thùy Linh ft. Đen Vâu",
+    "url": "https://www.youtube.com/watch?v=Q6ZNsHvspEg",
+    "slug": "gieo-que",
+    "aliases": [
+      "gieo que"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 51,
+    "title": "Kẻ Cắp Gặp Bà Già",
+    "artist": "Hoàng Thùy Linh",
+    "url": "https://www.youtube.com/watch?v=bA1MhSK8wBE",
+    "slug": "ke-cap-gap-ba-gia",
+    "aliases": [
+      "ke cap gap ba gia"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 52,
+    "title": "Bánh Trôi Nước",
+    "artist": "Hoàng Thùy Linh",
+    "url": "https://www.youtube.com/watch?v=U3ucpVlaeK8",
+    "slug": "banh-troi-nuoc",
+    "aliases": [
+      "banh troi nuoc"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 53,
+    "title": "Duyên Âm",
+    "artist": "Hoàng Thùy Linh",
+    "url": "https://www.youtube.com/watch?v=T1xzr_iEy_I",
+    "slug": "duyen-am",
+    "aliases": [
+      "duyen am"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 54,
+    "title": "Tứ Phủ",
+    "artist": "Hoàng Thùy Linh",
+    "url": "https://www.youtube.com/watch?v=BGSMfgcC6tI",
+    "slug": "tu-phu",
+    "aliases": [
+      "tu phu"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 55,
+    "title": "Dancing In The Dark",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=OZmK0YuSmXU",
+    "slug": "dancing-in-the-dark",
+    "aliases": [
+      "dancing in the dark"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 56,
+    "title": "Mục Hạ Vô Nhân",
+    "artist": "Soobin - Binz - NSND Huỳnh Tú",
+    "url": "https://www.youtube.com/watch?v=FikdKWos-NQ",
+    "slug": "muc-ha-vo-nhan",
+    "aliases": [
+      "muc ha vo nhan"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 57,
+    "title": "Anh Đã Quen Với Cô Đơn",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=X7sSE3yCNLI",
+    "slug": "anh-da-quen-voi-co-don",
+    "aliases": [
+      "anh da quen voi co don"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 58,
+    "title": "SLI - THE PLAYAH",
+    "artist": "Soobin x SlimV",
+    "url": "https://www.youtube.com/watch?v=d44UTUSTYKU",
+    "slug": "sli-the-playah",
+    "aliases": [
+      "sli the playah"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 59,
+    "title": "Phía Sau Một Cô Gái",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=vCIc1g_4JWM",
+    "slug": "phia-sau-mot-co-gai",
+    "aliases": [
+      "phia sau mot co gai"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 60,
+    "title": "BlackJack",
+    "artist": "Soobin & Binz ft. GOKU",
+    "url": "https://www.youtube.com/watch?v=zRdHnseM0PE",
+    "slug": "blackjack",
+    "aliases": [
+      "blackjack"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 61,
+    "title": "DAYDREAMS",
+    "artist": "Soobin ft. BigDaddy",
+    "url": "https://www.youtube.com/watch?v=o0GYK5Whk80",
+    "slug": "daydreams",
+    "aliases": [
+      "daydreams"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 62,
+    "title": "giá như",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=SeWt7IpZ0CA",
+    "slug": "gia-nhu",
+    "aliases": [
+      "gia nhu"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 63,
+    "title": "EVERYDAY",
+    "artist": "SPACESPEAKER",
+    "url": "https://www.youtube.com/watch?v=uwlGzAprCrw",
+    "slug": "everyday",
+    "aliases": [
+      "everyday"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 64,
+    "title": "Ai Mà Biết Được",
+    "artist": "Soobin, Tlinh ft. Touliver",
+    "url": "https://www.youtube.com/watch?v=oV7qaHKPoK0",
+    "slug": "ai-ma-biet-duoc",
+    "aliases": [
+      "ai ma biet duoc"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 65,
+    "title": "TRÒ CHƠI",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=QFHvfQDgRFA",
+    "slug": "tro-choi",
+    "aliases": [
+      "tro choi"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 66,
+    "title": "I KNOW YOU KNOW",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=aNLmz22WrOQ",
+    "slug": "i-know-you-know",
+    "aliases": [
+      "i know you know"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 67,
+    "title": "Tọa Độ Tình Yêu",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=G6towqFgoZ4",
+    "slug": "toa-do-tinh-yeu",
+    "aliases": [
+      "toa do tinh yeu"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 68,
+    "title": "NGƯỜI VIỆT",
+    "artist": "HÀ LÊ, SOOBIN, 16 TYPH, LIL WUYN, KIMLONG",
+    "url": "https://www.youtube.com/watch?v=-RdgJv93Mhc",
+    "slug": "nguoi-viet",
+    "aliases": [
+      "nguoi viet"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 69,
+    "title": "SAY GOODBYE",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=7kP8Qnu2TJ8",
+    "slug": "say-goodbye",
+    "aliases": [
+      "say goodbye"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 70,
+    "title": "BEAUTIFUL MONSTER",
+    "artist": "Soobin x Binz",
+    "url": "https://www.youtube.com/watch?v=aEHSS6Q94S4",
+    "slug": "beautiful-monster",
+    "aliases": [
+      "beautiful monster"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 71,
+    "title": "HEYYY",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=YBNR6iXd0sg",
+    "slug": "heyyy",
+    "aliases": [
+      "heyyy"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 72,
+    "title": "Vụt Tan",
+    "artist": "Soobin ft. Justatee",
+    "url": "https://www.youtube.com/watch?v=lyU7YXwT2cE",
+    "slug": "vut-tan",
+    "aliases": [
+      "vut tan"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 73,
+    "title": "Sunday Driver",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=o9thOizwRW4",
+    "slug": "sunday-driver",
+    "aliases": [
+      "sunday driver"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 74,
+    "title": "ĐÃ ĐẾN LÚC",
+    "artist": "Soobin x SlimV",
+    "url": "https://www.youtube.com/watch?v=dOZ1gK5YFBI",
+    "slug": "da-den-luc",
+    "aliases": [
+      "da den luc"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 75,
+    "title": "VINH QUANG CHỜ TA",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=CIbunc1nnxs",
+    "slug": "vinh-quang-cho-ta",
+    "aliases": [
+      "vinh quang cho ta"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 76,
+    "title": "SUNSET IN THE CITY",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=IlKDjFa85Qc",
+    "slug": "sunset-in-the-city",
+    "aliases": [
+      "sunset in the city"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 77,
+    "title": "Điều Ta Muốn",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=M4RrdchSzWk",
+    "slug": "dieu-ta-muon",
+    "aliases": [
+      "dieu ta muon"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 78,
+    "title": "VUI ĐI EM",
+    "artist": "Soobin",
+    "url": "https://www.youtube.com/watch?v=CaVc16htVxU",
+    "slug": "vui-di-em",
+    "aliases": [
+      "vui di em"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 79,
+    "title": "Thanh Xuân",
+    "artist": "Da LAB",
+    "url": "https://www.youtube.com/watch?v=GgQFO8dL5XQ",
+    "slug": "thanh-xuan",
+    "aliases": [
+      "thanh xuan"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 80,
+    "title": "Gác lại âu lo",
+    "artist": "Da LAB ft. Miu Lê",
+    "url": "https://www.youtube.com/watch?v=ECxVfrwwTp0",
+    "slug": "gac-lai-au-lo",
+    "aliases": [
+      "gac lai au lo"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 81,
+    "title": "Nước Mắt Em Lau Bằng Tình Yêu Mới",
+    "artist": "Da LAB ft. Tóc Tiên",
+    "url": "https://www.youtube.com/watch?v=GQ4F9k4USfA",
+    "slug": "nuoc-mat-em-lau-bang-tinh-yeu-moi",
+    "aliases": [
+      "nuoc mat em lau bang tinh yeu moi"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 82,
+    "title": "Từ Ngày Em Đến",
+    "artist": "Da LAB",
+    "url": "https://www.youtube.com/watch?v=AmvA-XJF0j8",
+    "slug": "tu-ngay-em-den",
+    "aliases": [
+      "tu ngay em den"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 83,
+    "title": "Thức Giấc",
+    "artist": "Da LAB",
+    "url": "https://www.youtube.com/watch?v=R3trO4a49go",
+    "slug": "thuc-giac",
+    "aliases": [
+      "thuc giac"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 84,
+    "title": "Chuyện Đôi Ta",
+    "artist": "Emcee L (Da LAB) ft Muộii",
+    "url": "https://www.youtube.com/watch?v=6eONmnFB9sw",
+    "slug": "chuyen-doi-ta",
+    "aliases": [
+      "chuyen doi ta"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 85,
+    "title": "Bầu Trời Mới",
+    "artist": "Da LAB ft. Minh Tốc & Lam",
+    "url": "https://www.youtube.com/watch?v=Z1D26z9l8y8",
+    "slug": "bau-troi-moi",
+    "aliases": [
+      "bau troi moi"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 86,
+    "title": "Sinh Ra Đã Là Thứ Đối Lập Nhau",
+    "artist": "Emcee L (Da LAB) ft. Badbies",
+    "url": "https://www.youtube.com/watch?v=redFrGBZoJY",
+    "slug": "sinh-ra-da-la-thu-doi-lap-nhau",
+    "aliases": [
+      "sinh ra da la thu doi lap nhau"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 87,
+    "title": "Chạy Khỏi Thế Giới Này",
+    "artist": "Da LAB ft. Phương Ly",
+    "url": "https://www.youtube.com/watch?v=hYYMF3VtOjE",
+    "slug": "chay-khoi-the-gioi-nay",
+    "aliases": [
+      "chay khoi the gioi nay"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 88,
+    "title": "Mặt Trời Của Em",
+    "artist": "Phương Ly ft. JustaTee",
+    "url": "https://www.youtube.com/watch?v=t0WFOnwp3MM",
+    "slug": "mat-troi-cua-em",
+    "aliases": [
+      "mat troi cua em"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 89,
+    "title": "THẰNG ĐIÊN",
+    "artist": "JUSTATEE x Phương Ly",
+    "url": "https://www.youtube.com/watch?v=HXkh7EOqcQ4",
+    "slug": "thang-dien",
+    "aliases": [
+      "thang dien"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 90,
+    "title": "Đã Lỡ Yêu Em Nhiều",
+    "artist": "JustaTee",
+    "url": "https://www.youtube.com/watch?v=KhTCatAKVpk",
+    "slug": "da-lo-yeu-em-nhieu",
+    "aliases": [
+      "da lo yeu em nhieu"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 91,
+    "title": "ANH LÀ NGOẠI LỆ CỦA EM",
+    "artist": "Phương Ly",
+    "url": "https://www.youtube.com/watch?v=q2YUtZum9wc",
+    "slug": "anh-la-ngoai-le-cua-em",
+    "aliases": [
+      "anh la ngoai le cua em"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 92,
+    "title": "Anh Là Ai",
+    "artist": "Phương Ly",
+    "url": "https://www.youtube.com/watch?v=3bJkVSMs4dw",
+    "slug": "anh-la-ai",
+    "aliases": [
+      "anh la ai"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 93,
+    "title": "THEO ANH KHÔNG?",
+    "artist": "JUSTATEE X PHƯƠNG LY",
+    "url": "https://www.youtube.com/watch?v=A2OtU0HOzJY",
+    "slug": "theo-anh-khong",
+    "aliases": [
+      "theo anh khong"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 94,
+    "title": "MISSING YOU",
+    "artist": "PHƯƠNG LY x TINLE",
+    "url": "https://www.youtube.com/watch?v=PR_yVho1Txc",
+    "slug": "missing-you",
+    "aliases": [
+      "missing you"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 95,
+    "title": "THICHTHICH",
+    "artist": "Phương Ly",
+    "url": "https://www.youtube.com/watch?v=OqdA6DKV1Fs",
+    "slug": "thichthich",
+    "aliases": [
+      "thichthich"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 96,
+    "title": "TỪNG LÀ CỦA NHAU",
+    "artist": "BẢO ANH ft. Táo",
+    "url": "https://www.youtube.com/watch?v=Udc6MAAZT30",
+    "slug": "tung-la-cua-nhau",
+    "aliases": [
+      "tung la cua nhau"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 97,
+    "title": "SO CLOSE",
+    "artist": "Binz x Phương Ly",
+    "url": "https://www.youtube.com/watch?v=mlFiwKicz7I",
+    "slug": "so-close",
+    "aliases": [
+      "so close"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 98,
+    "title": "Xoay Một Vòng",
+    "artist": "HIEUTHUHAI x PHƯƠNG LY",
+    "url": "https://www.youtube.com/watch?v=aEAbCjFPtjY",
+    "slug": "xoay-mot-vong",
+    "aliases": [
+      "xoay mot vong"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 99,
+    "title": "Anh Là Ai",
+    "artist": "Phương Ly x Refre",
+    "url": "https://www.youtube.com/watch?v=fP80p59cvFE",
+    "slug": "anh-la-ai",
+    "aliases": [
+      "anh la ai"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 100,
+    "title": "VỖ TAY",
+    "artist": "Phương Ly",
+    "url": "https://www.youtube.com/watch?v=d3hXxAAuP2U",
+    "slug": "vo-tay",
+    "aliases": [
+      "vo tay"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 101,
+    "title": "LITTLE LOVE (BUT NO LIMIT)",
+    "artist": "Phương Ly",
+    "url": "https://www.youtube.com/watch?v=8iX5XtfqwHU",
+    "slug": "little-love-but-no-limit",
+    "aliases": [
+      "little love but no limit"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 102,
+    "title": "Làm gì phải Hốt",
+    "artist": "JustateeJustaTee x Hoàng Thùy Linh x Đen",
+    "url": "https://www.youtube.com/watch?v=1seYuaWehxY",
+    "slug": "lam-gi-phai-hot",
+    "aliases": [
+      "lam gi phai hot"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 103,
+    "title": "Crying Over You",
+    "artist": "JustaTee ft. Binz",
+    "url": "https://www.youtube.com/watch?v=tcat9CPiAZ4",
+    "slug": "crying-over-you",
+    "aliases": [
+      "crying over you"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 104,
+    "title": "Bâng Khuâng",
+    "artist": "Justatee",
+    "url": "https://www.youtube.com/watch?v=V0e2cgpOrJQ",
+    "slug": "bang-khuang",
+    "aliases": [
+      "bang khuang"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 105,
+    "title": "Forever Alone",
+    "artist": "Justatee",
+    "url": "https://www.youtube.com/watch?v=m6ndiBURmlQ",
+    "slug": "forever-alone",
+    "aliases": [
+      "forever alone"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 106,
+    "title": "Xin Anh Đừng",
+    "artist": "Emily ft. Lil' Knight & JustaTee",
+    "url": "https://www.youtube.com/watch?v=XdK-PdEdkaU",
+    "slug": "xin-anh-dung",
+    "aliases": [
+      "xin anh dung"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 107,
+    "title": "Thời Gian Sẽ Trả Lời",
+    "artist": "Tiên Cookie feat. JustaTee & BigDaddy",
+    "url": "https://www.youtube.com/watch?v=rqxOucqbdyg",
+    "slug": "thoi-gian-se-tra-loi",
+    "aliases": [
+      "thoi gian se tra loi"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 108,
+    "title": "TRỞ VỀ",
+    "artist": "Wxrdie ft. Justatee",
+    "url": "https://www.youtube.com/watch?v=MAxdSC64BP0",
+    "slug": "tro-ve",
+    "aliases": [
+      "tro ve"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 109,
+    "title": "Ta Còn Đây",
+    "artist": "JustaTee x Rhymastic",
+    "url": "https://www.youtube.com/watch?v=0Zn-efVbcAs",
+    "slug": "ta-con-day",
+    "aliases": [
+      "ta con day"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 110,
+    "title": "FORGET ABOUT HER",
+    "artist": "TOULIVER X JUSTATEE",
+    "url": "https://www.youtube.com/watch?v=jIq0QVDLvfw",
+    "slug": "forget-about-her",
+    "aliases": [
+      "forget about her"
+    ],
+    "year_override": null,
+    "difficulty_override": "easy"
+  },
+  {
+    "id": 111,
+    "title": "CẦN GÌ HƠN?",
+    "artist": "TIÊN TIÊN x Justatee",
+    "url": "https://www.youtube.com/watch?v=IyvgDtkHaYo",
+    "slug": "can-gi-hon",
+    "aliases": [
+      "can gi hon"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 112,
+    "title": "NGỌT",
+    "artist": "JUSTATEE x RHYMASTIC x BAEMIN",
+    "url": "https://www.youtube.com/watch?v=ijSIz1xpeVk",
+    "slug": "ngot",
+    "aliases": [
+      "ngot"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 113,
+    "title": "Real Love",
+    "artist": "Kimmese & JustaTee",
+    "url": "https://www.youtube.com/watch?v=NZwGl78YRcc",
+    "slug": "real-love",
+    "aliases": [
+      "real love"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 114,
+    "title": "BÔNG HOA NHÀI",
+    "artist": "Justatee",
+    "url": "https://www.youtube.com/watch?v=iE5tuFbJUX4",
+    "slug": "bong-hoa-nhai",
+    "aliases": [
+      "bong hoa nhai"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 115,
+    "title": "Imma Heartbreaker",
+    "artist": "LK ft. Justatee ft. Emily",
+    "url": "https://www.youtube.com/watch?v=aQ8EDyIJrtU",
+    "slug": "imma-heartbreaker",
+    "aliases": [
+      "imma heartbreaker"
+    ],
+    "year_override": null,
+    "difficulty_override": "hard"
+  },
+  {
+    "id": 116,
+    "title": "vì",
+    "artist": "marzuz ft. Jutatee",
+    "url": "https://www.youtube.com/watch?v=-V-FuTOseCo",
+    "slug": "vi",
+    "aliases": [
+      "vi"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 117,
+    "title": "She Neva Knows",
+    "artist": "Justatee",
+    "url": "https://www.youtube.com/watch?v=lXaWZixrTwg",
+    "slug": "she-neva-knows",
+    "aliases": [
+      "she neva knows"
+    ],
+    "year_override": null,
+    "difficulty_override": "medium"
+  },
+  {
+    "id": 118,
+    "title": "CHẠM ĐÁY NỖI ĐAU",
+    "artist": "Erik ft. MR.SIRO",
+    "url": "https://www.youtube.com/watch?v=8BAdhoeabUM",
+    "slug": "cham-day-noi-dau",
+    "aliases": [
+      "cham day noi dau"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 119,
+    "title": "Ghen",
+    "artist": "KHẮC HƯNG x MIN x ERIK",
+    "url": "https://www.youtube.com/watch?v=Vk8_0QaJr3I",
+    "slug": "ghen",
+    "aliases": [
+      "ghen"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 120,
+    "title": "'Em Không Sai, Chúng Ta Sai'",
+    "artist": "Erik",
+    "url": "https://www.youtube.com/watch?v=iwGuiSnr2Qc",
+    "slug": "em-khong-sai-chung-ta-sai",
+    "aliases": [
+      "em khong sai chung ta sai"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 121,
+    "title": "LẠC NHAU CÓ PHẢI MUÔN ĐỜI",
+    "artist": "Erik",
+    "url": "https://www.youtube.com/watch?v=Mb4xUU0utEI",
+    "slug": "lac-nhau-co-phai-muon-doi",
+    "aliases": [
+      "lac nhau co phai muon doi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 122,
+    "title": "Có Tất Cả Nhưng Thiếu Anh",
+    "artist": "Erik",
+    "url": "https://www.youtube.com/watch?v=LSjFMH1tsFc",
+    "slug": "co-tat-ca-nhung-thieu-anh",
+    "aliases": [
+      "co tat ca nhung thieu anh"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 123,
+    "title": "SAU TẤT CẢ",
+    "artist": "Erik",
+    "url": "https://www.youtube.com/watch?v=wHF3Jv6Gk2o",
+    "slug": "sau-tat-ca",
+    "aliases": [
+      "sau tat ca"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 124,
+    "title": "Dù cho tận thế (vẫn yêu em)",
+    "artist": "Erik",
+    "url": "https://www.youtube.com/watch?v=js6JBdLzNn4",
+    "slug": "du-cho-tan-the-van-yeu-em",
+    "aliases": [
+      "du cho tan the van yeu em"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 125,
+    "title": "Chưa Bao Giờ Mẹ Kể",
+    "artist": "MIN FT. ERIK",
+    "url": "https://www.youtube.com/watch?v=sICoUsvVAok",
+    "slug": "chua-bao-gio-me-ke",
+    "aliases": [
+      "chua bao gio me ke"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 126,
+    "title": "Yêu đương khó quá thì CHẠY VỀ KHÓC VỚI ANH",
+    "artist": "Erik",
+    "url": "https://www.youtube.com/watch?v=EBpp2VTSI2Q",
+    "slug": "yeu-duong-kho-qua-thi-chay-ve-khoc-voi-anh",
+    "aliases": [
+      "yeu duong kho qua thi chay ve khoc voi anh"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 127,
+    "title": "'MÌNH CHIA TAY ĐI (헤어지자)'",
+    "artist": "Erik",
+    "url": "https://www.youtube.com/watch?v=dShq3wqgzII",
+    "slug": "minh-chia-tay-di",
+    "aliases": [
+      "minh chia tay di"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 128,
+    "title": "ĐỪNG XIN LỖI NỮA",
+    "artist": "Erik ft. MIN",
+    "url": "https://www.youtube.com/watch?v=_ds-1XnWvGg",
+    "slug": "dung-xin-loi-nua",
+    "aliases": [
+      "dung xin loi nua"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 129,
+    "title": "Ăn Sáng Nha",
+    "artist": "Erik ft. Suni Hạ Linh",
+    "url": "https://www.youtube.com/watch?v=ywWVE59gwvs",
+    "slug": "an-sang-nha",
+    "aliases": [
+      "an sang nha"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 130,
+    "title": "Đau Nhất Là Lặng Im",
+    "artist": "Erik",
+    "url": "https://www.youtube.com/watch?v=D80QnP0iRBo",
+    "slug": "dau-nhat-la-lang-im",
+    "aliases": [
+      "dau nhat la lang im"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 131,
+    "title": "Anh Luôn Là Lý Do",
+    "artist": "Erik",
+    "url": "https://www.youtube.com/watch?v=1PQU1n6nMq8",
+    "slug": "anh-luon-la-ly-do",
+    "aliases": [
+      "anh luon la ly do"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 132,
+    "title": "ANH TA LÀ SAO?",
+    "artist": "Erik ft. OSAD",
+    "url": "https://www.youtube.com/watch?v=ilYjLkRGdqs",
+    "slug": "anh-ta-la-sao",
+    "aliases": [
+      "anh ta la sao"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 133,
+    "title": "Tha Thứ Cho Nhau Được Không?",
+    "artist": "Erik",
+    "url": "https://www.youtube.com/watch?v=wEVM-JBHPJc",
+    "slug": "tha-thu-cho-nhau-duoc-khong",
+    "aliases": [
+      "tha thu cho nhau duoc khong"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 134,
+    "title": "Xoa Đầu",
+    "artist": "Erik",
+    "url": "https://www.youtube.com/watch?v=unj3cDg3fV0",
+    "slug": "xoa-dau",
+    "aliases": [
+      "xoa dau"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 135,
+    "title": "you may kiss your bride",
+    "artist": "KAI ĐINH x ERIK X ORANGE",
+    "url": "https://www.youtube.com/watch?v=QTHKx5xYe4s",
+    "slug": "you-may-kiss-your-bride",
+    "aliases": [
+      "you may kiss your bride"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 136,
+    "title": "ĐỪNG YÊU NỮA, EM MỆT RỒI",
+    "artist": "Min",
+    "url": "https://www.youtube.com/watch?v=2sIC1sh-yc0",
+    "slug": "dung-yeu-nua-em-met-roi",
+    "aliases": [
+      "dung yeu nua em met roi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 137,
+    "title": "TRÊN TÌNH BẠN DƯỚI TÌNH YÊU",
+    "artist": "Min",
+    "url": "https://www.youtube.com/watch?v=0R8IbpKXavM",
+    "slug": "tren-tinh-ban-duoi-tinh-yeu",
+    "aliases": [
+      "tren tinh ban duoi tinh yeu"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 138,
+    "title": "Có Em Chờ",
+    "artist": "Min ft. Mr A",
+    "url": "https://www.youtube.com/watch?v=_YzngEllRgM",
+    "slug": "co-em-cho",
+    "aliases": [
+      "co em cho"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 139,
+    "title": "VÌ YÊU CỨ ĐÂM ĐẦU",
+    "artist": "Min x ĐEN VÂU x JUSTATEE -",
+    "url": "https://www.youtube.com/watch?v=EWz4fITO5qg",
+    "slug": "vi-yeu-cu-dam-dau",
+    "aliases": [
+      "vi yeu cu dam dau"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 140,
+    "title": "Em Mới Là Người Yêu Anh",
+    "artist": "Min",
+    "url": "https://www.youtube.com/watch?v=VH3mWd28Ndg",
+    "slug": "em-moi-la-nguoi-yeu-anh",
+    "aliases": [
+      "em moi la nguoi yeu anh"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 141,
+    "title": "MLEM MLEM",
+    "artist": "MIN X JUSTATEE X YUNO BIGBOI",
+    "url": "https://www.youtube.com/watch?v=S7f24xceqSs",
+    "slug": "mlem-mlem",
+    "aliases": [
+      "mlem mlem"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 142,
+    "title": "để tôi ôm em bằng giai điệu này",
+    "artist": "KAI ĐINH x MIN x GREY D",
+    "url": "https://www.youtube.com/watch?v=XmTLFtbv0Oo",
+    "slug": "de-toi-om-em-bang-giai-dieu-nay",
+    "aliases": [
+      "de toi om em bang giai dieu nay"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 143,
+    "title": "CÀ PHÊ",
+    "artist": "Min",
+    "url": "https://www.youtube.com/watch?v=7m8ek8D9me0",
+    "slug": "ca-phe",
+    "aliases": [
+      "ca phe"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 144,
+    "title": "HÔN ANH | (민)",
+    "artist": "Min",
+    "url": "https://www.youtube.com/watch?v=7c39lfT6Sr0",
+    "slug": "hon-anh",
+    "aliases": [
+      "hon anh"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 145,
+    "title": "chẳng phải tình đầu sao đau đến thế",
+    "artist": "Min feat. Dangrangto, antransax",
+    "url": "https://www.youtube.com/watch?v=s0OMNH-N5D8",
+    "slug": "chang-phai-tinh-dau-sao-dau-den-the",
+    "aliases": [
+      "chang phai tinh dau sao dau den the"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 146,
+    "title": "(TỪNG LÀ) BOYFRIEND, GIRLFRIEND",
+    "artist": "Min",
+    "url": "https://www.youtube.com/watch?v=7OYnkD6rctg",
+    "slug": "tung-la-boyfriend-girlfriend",
+    "aliases": [
+      "tung la boyfriend girlfriend"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 147,
+    "title": "GET OUT!",
+    "artist": "Min",
+    "url": "https://www.youtube.com/watch?v=Lo6b1-qYbsc",
+    "slug": "get-out",
+    "aliases": [
+      "get out"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 148,
+    "title": "Y.Ê.U",
+    "artist": "Min",
+    "url": "https://www.youtube.com/watch?v=umqzEWyMw2U",
+    "slug": "y-e-u",
+    "aliases": [
+      "y e u"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 149,
+    "title": "có hẹn với thanh xuân",
+    "artist": "MONSTAR",
+    "url": "https://www.youtube.com/watch?v=vpRi8S6uXAg",
+    "slug": "co-hen-voi-thanh-xuan",
+    "aliases": [
+      "co hen voi thanh xuan"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 150,
+    "title": "vaicaunoicokhiennguoithaydoi",
+    "artist": "GREY D x tlinh",
+    "url": "https://www.youtube.com/watch?v=2iidlwQ-NfU",
+    "slug": "vaicaunoicokhiennguoithaydoi",
+    "aliases": [
+      "vaicaunoicokhiennguoithaydoi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 151,
+    "title": "dự báo thời tiết hôm nay mưa",
+    "artist": "GREY D",
+    "url": "https://www.youtube.com/watch?v=heMYSOZoT3c",
+    "slug": "du-bao-thoi-tiet-hom-nay-mua",
+    "aliases": [
+      "du bao thoi tiet hom nay mua"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 152,
+    "title": "lời tạm biệt chưa nói",
+    "artist": "GREY D & ORANGE, Kai Đinh",
+    "url": "https://www.youtube.com/watch?v=B9PDYlaV84w",
+    "slug": "loi-tam-biet-chua-noi",
+    "aliases": [
+      "loi tam biet chua noi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 153,
+    "title": "đưa em về nhàa",
+    "artist": "GREY D x CHILLIES",
+    "url": "https://www.youtube.com/watch?v=wvcSGGdnnII",
+    "slug": "dua-em-ve-nhaa",
+    "aliases": [
+      "dua em ve nhaa"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 154,
+    "title": "Trái đất ôm Mặt trời",
+    "artist": "KAI ĐINH x GREY D x HOÀNG THUỲ LINH",
+    "url": "https://www.youtube.com/watch?v=ohgodOTSHjA",
+    "slug": "trai-dat-om-mat-troi",
+    "aliases": [
+      "trai dat om mat troi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 155,
+    "title": "TÌNH YÊU CHẬM TRỄ",
+    "artist": "MONSTAR",
+    "url": "https://www.youtube.com/watch?v=NJp5Fz3mTu0",
+    "slug": "tinh-yeu-cham-tre",
+    "aliases": [
+      "tinh yeu cham tre"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 156,
+    "title": "hóa ra...",
+    "artist": "GREY D",
+    "url": "https://www.youtube.com/watch?v=SIxXaXF09oI",
+    "slug": "hoa-ra",
+    "aliases": [
+      "hoa ra"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 157,
+    "title": "nhạt-fine",
+    "artist": "GREY D",
+    "url": "https://www.youtube.com/watch?v=1kCxdmWjac0",
+    "slug": "nhat-fine",
+    "aliases": [
+      "nhat fine"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 158,
+    "title": "MƯA THÂM LẶNG GIỜI",
+    "artist": "BIGDADDY ft. GREY D",
+    "url": "https://www.youtube.com/watch?v=syp_QB-Rtf4",
+    "slug": "mua-tham-lang-gioi",
+    "aliases": [
+      "mua tham lang gioi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 159,
+    "title": "Chăm Hoa",
+    "artist": "Mono",
+    "url": "https://www.youtube.com/watch?v=WCm2elbTEZQ",
+    "slug": "cham-hoa",
+    "aliases": [
+      "cham hoa"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 160,
+    "title": "Em Xinh",
+    "artist": "Mono",
+    "url": "https://www.youtube.com/watch?v=rYc1UbgbMIY",
+    "slug": "em-xinh",
+    "aliases": [
+      "em xinh"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 161,
+    "title": "Đi Tìm Tình Yêu",
+    "artist": "Mono",
+    "url": "https://www.youtube.com/watch?v=GOSiWQlZdVU",
+    "slug": "di-tim-tinh-yeu",
+    "aliases": [
+      "di tim tinh yeu"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 162,
+    "title": "Ôm Em Thật Lâu",
+    "artist": "Mono",
+    "url": "https://www.youtube.com/watch?v=vCcbJGNMR60",
+    "slug": "om-em-that-lau",
+    "aliases": [
+      "om em that lau"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 163,
+    "title": "Waiting For You",
+    "artist": "Mono",
+    "url": "https://www.youtube.com/watch?v=okz5RIZRT0U",
+    "slug": "waiting-for-you",
+    "aliases": [
+      "waiting for you"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 164,
+    "title": "Quên Anh Đi",
+    "artist": "Mono",
+    "url": "https://www.youtube.com/watch?v=j91oSWmr1f4",
+    "slug": "quen-anh-di",
+    "aliases": [
+      "quen anh di"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 165,
+    "title": "Em Là",
+    "artist": "Mono",
+    "url": "https://www.youtube.com/watch?v=bpOwZ68fcQE",
+    "slug": "em-la",
+    "aliases": [
+      "em la"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 166,
+    "title": "Open Your Eyes",
+    "artist": "Mono",
+    "url": "https://www.youtube.com/watch?v=PjLnZ3T11f4",
+    "slug": "open-your-eyes",
+    "aliases": [
+      "open your eyes"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 167,
+    "title": "THÁC NÌNG",
+    "artist": "2pillz x MONO x GREY D",
+    "url": "https://www.youtube.com/watch?v=_FITNiYXvO8",
+    "slug": "thac-ning",
+    "aliases": [
+      "thac ning"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 168,
+    "title": "Yêu Là Tha Thu",
+    "artist": "OnlyC",
+    "url": "https://www.youtube.com/watch?v=-nnWBhKZeg0",
+    "slug": "yeu-la-tha-thu",
+    "aliases": [
+      "yeu la tha thu"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 169,
+    "title": "ĐAU ĐỂ TRƯỞNG THÀNH",
+    "artist": "OnlyC",
+    "url": "https://www.youtube.com/watch?v=eoJecvGMR6E",
+    "slug": "dau-de-truong-thanh",
+    "aliases": [
+      "dau de truong thanh"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 170,
+    "title": "Đếm Ngày Xa Em",
+    "artist": "Only C ft. Lou Hoàng",
+    "url": "https://www.youtube.com/watch?v=rtviC6i42bc",
+    "slug": "dem-ngay-xa-em",
+    "aliases": [
+      "dem ngay xa em"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 171,
+    "title": "NGƯỜI ĐÁNG THƯƠNG LÀ ANH",
+    "artist": "ONLY C X NGUYỄN PHÚC THIỆN",
+    "url": "https://www.youtube.com/watch?v=9tcFnx0-cQY",
+    "slug": "nguoi-dang-thuong-la-anh",
+    "aliases": [
+      "nguoi dang thuong la anh"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 172,
+    "title": "NÃO CÁ VÀNG",
+    "artist": "ONLY C ft. LOU HOÀNG",
+    "url": "https://www.youtube.com/watch?v=r3iKrM6hImQ",
+    "slug": "nao-ca-vang",
+    "aliases": [
+      "nao ca vang"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 173,
+    "title": "YÊU ĐƠN PHƯƠNG",
+    "artist": "ONLYC x KARIK",
+    "url": "https://www.youtube.com/watch?v=DTosuuoN74A",
+    "slug": "yeu-don-phuong",
+    "aliases": [
+      "yeu don phuong"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 174,
+    "title": "CẢM GIÁC LÚC ẤY SẼ RA SAO",
+    "artist": "LOU HOÀNG",
+    "url": "https://www.youtube.com/watch?v=9u1wkvVY7jc",
+    "slug": "cam-giac-luc-ay-se-ra-sao",
+    "aliases": [
+      "cam giac luc ay se ra sao"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 175,
+    "title": "Anh Không Đòi Quà",
+    "artist": "Only C ft. Karik",
+    "url": "https://www.youtube.com/watch?v=YlPH5jWbTpA",
+    "slug": "anh-khong-doi-qua",
+    "aliases": [
+      "anh khong doi qua"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 176,
+    "title": "THẤY LÀ YÊU THƯƠNG",
+    "artist": "OnlyC",
+    "url": "https://www.youtube.com/watch?v=UX5oj9isGPM",
+    "slug": "thay-la-yeu-thuong",
+    "aliases": [
+      "thay la yeu thuong"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 177,
+    "title": "TẠI VÌ SAO",
+    "artist": "MCK",
+    "url": "https://www.youtube.com/watch?v=U0Vr1zotKIo",
+    "slug": "tai-vi-sao",
+    "aliases": [
+      "tai vi sao"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 178,
+    "title": "Em Là Châu Báu",
+    "artist": "TLinh x MCK x Châu Bùi",
+    "url": "https://www.youtube.com/watch?v=eo_JVyY1Ra4",
+    "slug": "em-la-chau-bau",
+    "aliases": [
+      "em la chau bau"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 179,
+    "title": "MỘNG YU",
+    "artist": "AMEE x MCK",
+    "url": "https://www.youtube.com/watch?v=09Mh7GgUFFA",
+    "slug": "mong-yu",
+    "aliases": [
+      "mong yu"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 180,
+    "title": "UầYYY - RAPITAL",
+    "artist": "RAPITAL",
+    "url": "https://www.youtube.com/watch?v=O4XDCV08Rng",
+    "slug": "uayyy-rapital",
+    "aliases": [
+      "uayyy rapital"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 181,
+    "title": "Phong Cách",
+    "artist": "MCK",
+    "url": "https://www.youtube.com/watch?v=Kl2XtkZ2Vfs",
+    "slug": "phong-cach",
+    "aliases": [
+      "phong cach"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 182,
+    "title": "Phát Điên",
+    "artist": "Teeayz ft. Nger (MCK) & Trung Trần",
+    "url": "https://www.youtube.com/watch?v=f5W7e1UP8JA",
+    "slug": "phat-dien",
+    "aliases": [
+      "phat dien"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 183,
+    "title": "Love is",
+    "artist": "dangrangto",
+    "url": "https://www.youtube.com/watch?v=h52PcEuzUUA",
+    "slug": "love-is",
+    "aliases": [
+      "love is"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 184,
+    "title": "NGỰA Ô",
+    "artist": "TeuYungBoy, Dangrangto",
+    "url": "https://www.youtube.com/watch?v=cm0C1c2UuQA",
+    "slug": "ngua-o",
+    "aliases": [
+      "ngua o"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 185,
+    "title": "MOIEM",
+    "artist": "dangrangto",
+    "url": "https://www.youtube.com/watch?v=9bDsiTYQLs0",
+    "slug": "moiem",
+    "aliases": [
+      "moiem"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 186,
+    "title": "Từng Ngày Yêu Em",
+    "artist": "buitruonglinh",
+    "url": "https://www.youtube.com/watch?v=f-VsoLm4i5c",
+    "slug": "tung-ngay-yeu-em",
+    "aliases": [
+      "tung ngay yeu em"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 187,
+    "title": "Giờ Thì",
+    "artist": "buitruonglinh",
+    "url": "https://www.youtube.com/watch?v=69ZDBWoj5YM",
+    "slug": "gio-thi",
+    "aliases": [
+      "gio thi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 188,
+    "title": "Dù Cho Mai Về Sau",
+    "artist": "buitruonglinh",
+    "url": "https://www.youtube.com/watch?v=SGlBQR-ftVI",
+    "slug": "du-cho-mai-ve-sau",
+    "aliases": [
+      "du cho mai ve sau"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 189,
+    "title": "Người Đầu Tiên",
+    "artist": "Juky San feat. buitruonglinh",
+    "url": "https://www.youtube.com/watch?v=i54avTdUqwU",
+    "slug": "nguoi-dau-tien",
+    "aliases": [
+      "nguoi dau tien"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 190,
+    "title": "Sớm Như Vậy",
+    "artist": "buitruonglinh",
+    "url": "https://www.youtube.com/watch?v=6hNenqz0ISA",
+    "slug": "som-nhu-vay",
+    "aliases": [
+      "som nhu vay"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 191,
+    "title": "Ex's Hate Me",
+    "artist": "B Ray x Masew (Ft AMEE)",
+    "url": "https://www.youtube.com/watch?v=95ahbau-rJk",
+    "slug": "ex-s-hate-me",
+    "aliases": [
+      "ex s hate me"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 192,
+    "title": "ANH NHÀ Ở ĐÂU THẾ",
+    "artist": "Amee x B Ray",
+    "url": "https://www.youtube.com/watch?v=iE52-XXnQqs",
+    "slug": "anh-nha-o-dau-the",
+    "aliases": [
+      "anh nha o dau the"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 193,
+    "title": "TRỜI GIẤU TRỜI MANG ĐI",
+    "artist": "Amee x Viruss",
+    "url": "https://www.youtube.com/watch?v=YXkp77tR9vw",
+    "slug": "troi-giau-troi-mang-di",
+    "aliases": [
+      "troi giau troi mang di"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 194,
+    "title": "SAO ANH CHƯA VỀ NHÀ",
+    "artist": "Amee ft. RICKY STAR",
+    "url": "https://www.youtube.com/watch?v=RlBkvjVss-s",
+    "slug": "sao-anh-chua-ve-nha",
+    "aliases": [
+      "sao anh chua ve nha"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 195,
+    "title": "YÊU THÌ YÊU KHÔNG YÊU THÌ YÊU",
+    "artist": "Amee",
+    "url": "https://www.youtube.com/watch?v=66GBxJYrmVM",
+    "slug": "yeu-thi-yeu-khong-yeu-thi-yeu",
+    "aliases": [
+      "yeu thi yeu khong yeu thi yeu"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 196,
+    "title": "EM BÉ",
+    "artist": "AMEE x KARIK x BAEMIN",
+    "url": "https://www.youtube.com/watch?v=LgyyIb9u-30",
+    "slug": "em-be",
+    "aliases": [
+      "em be"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 197,
+    "title": "Shay Nắnggg",
+    "artist": "AMEE x OBITO x HỨA KIM TUYỀN",
+    "url": "https://www.youtube.com/watch?v=TaJqxfMZMWs",
+    "slug": "shay-nanggg",
+    "aliases": [
+      "shay nanggg"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 198,
+    "title": "ĐEN ĐÁ KHÔNG ĐƯỜNG",
+    "artist": "Amee",
+    "url": "https://www.youtube.com/watch?v=ZwDxaM5VBJM",
+    "slug": "den-da-khong-duong",
+    "aliases": [
+      "den da khong duong"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 199,
+    "title": "Simple Love",
+    "artist": "Obito x Seachains x Davis x Lena",
+    "url": "https://www.youtube.com/watch?v=lUrmyU1cnxU",
+    "slug": "simple-love",
+    "aliases": [
+      "simple love"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 200,
+    "title": "tell the kids i love them",
+    "artist": "Obito ft. Shiki",
+    "url": "https://www.youtube.com/watch?v=fw3MZm2lEVA",
+    "slug": "tell-the-kids-i-love-them",
+    "aliases": [
+      "tell the kids i love them"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 201,
+    "title": "ĐỪNG VỀ TRỄ",
+    "artist": "LĂNG LD ft. OBITO",
+    "url": "https://www.youtube.com/watch?v=Z6Oi4V0TSUY",
+    "slug": "dung-ve-tre",
+    "aliases": [
+      "dung ve tre"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 202,
+    "title": "SOJU LOVE",
+    "artist": "Obito",
+    "url": "https://www.youtube.com/watch?v=xJjOvlXr0Qc",
+    "slug": "soju-love",
+    "aliases": [
+      "soju love"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 203,
+    "title": "Có em",
+    "artist": "Madihu Feat. Low G",
+    "url": "https://www.youtube.com/watch?v=DcCISK3sCYg",
+    "slug": "co-em",
+    "aliases": [
+      "co em"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 204,
+    "title": "Simp Gái 808",
+    "artist": "Low G",
+    "url": "https://www.youtube.com/watch?v=6aBnhxRvmok",
+    "slug": "simp-gai-808",
+    "aliases": [
+      "simp gai 808"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 205,
+    "title": "pho real",
+    "artist": "bbno$, Low G & Anh Phan",
+    "url": "https://www.youtube.com/watch?v=6acS2vOxmRI",
+    "slug": "pho-real",
+    "aliases": [
+      "pho real"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 206,
+    "title": "Càng Cua",
+    "artist": "Low G x Last Fire Crew",
+    "url": "https://www.youtube.com/watch?v=yZW8jzWb5yA",
+    "slug": "cang-cua",
+    "aliases": [
+      "cang cua"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 207,
+    "title": "Tam Giác",
+    "artist": "Anh Phan ft. Low G & Larria",
+    "url": "https://www.youtube.com/watch?v=ljfxIlT_T_4",
+    "slug": "tam-giac",
+    "aliases": [
+      "tam giac"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 208,
+    "title": "HOP ON DA SHOW",
+    "artist": "Low G x tlinh x Last Fire Crew",
+    "url": "https://www.youtube.com/watch?v=SutaE3lW_8E",
+    "slug": "hop-on-da-show",
+    "aliases": [
+      "hop on da show"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 209,
+    "title": "Love Game",
+    "artist": "Low G ft. tlinh",
+    "url": "https://www.youtube.com/watch?v=cI5b71ZBAn0",
+    "slug": "love-game",
+    "aliases": [
+      "love game"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 210,
+    "title": "Có Khi",
+    "artist": "Madihu ft. Low G",
+    "url": "https://www.youtube.com/watch?v=-aIDdR5rbPw",
+    "slug": "co-khi",
+    "aliases": [
+      "co khi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 211,
+    "title": "Nét",
+    "artist": "Low G",
+    "url": "https://www.youtube.com/watch?v=3mvIhUZt8hE",
+    "slug": "net",
+    "aliases": [
+      "net"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 212,
+    "title": "Vì Anh Đâu Có Biết",
+    "artist": "Madihu (Feat. Vũ.)",
+    "url": "https://www.youtube.com/watch?v=02ODKglDVQs",
+    "slug": "vi-anh-dau-co-biet",
+    "aliases": [
+      "vi anh dau co biet"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 213,
+    "title": "Không Còn Em",
+    "artist": "Madihu",
+    "url": "https://www.youtube.com/watch?v=S_NNAMCFaxo",
+    "slug": "khong-con-em",
+    "aliases": [
+      "khong con em"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 214,
+    "title": "Để Anh Không",
+    "artist": "Madihu",
+    "url": "https://www.youtube.com/watch?v=stxI7_VQe-I",
+    "slug": "de-anh-khong",
+    "aliases": [
+      "de anh khong"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 215,
+    "title": "Thôi hẹn em",
+    "artist": "Madihu",
+    "url": "https://www.youtube.com/watch?v=oNS48yhxqVE",
+    "slug": "thoi-hen-em",
+    "aliases": [
+      "thoi hen em"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 216,
+    "title": "BIGCITYBOI",
+    "artist": "TOULIVER x BINZ",
+    "url": "https://www.youtube.com/watch?v=jgZkrA8E5do",
+    "slug": "bigcityboi",
+    "aliases": [
+      "bigcityboi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 217,
+    "title": "GENE",
+    "artist": "TOULIVER X BINZ",
+    "url": "https://www.youtube.com/watch?v=cX-Oqdt7gmc",
+    "slug": "gene",
+    "aliases": [
+      "gene"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 218,
+    "title": "OK",
+    "artist": "Binz",
+    "url": "https://www.youtube.com/watch?v=SNES5Y-tYxM",
+    "slug": "ok",
+    "aliases": [
+      "ok"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 219,
+    "title": "SOFAR",
+    "artist": "binz",
+    "url": "https://www.youtube.com/watch?v=_MM1MQgFjRM",
+    "slug": "sofar",
+    "aliases": [
+      "sofar"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 220,
+    "title": "ngủ một mình (tình rất tình)",
+    "artist": "Hieuthuhai ft. negav (prod. by kewtiie)",
+    "url": "https://www.youtube.com/watch?v=1OJQdxT6WHE",
+    "slug": "ngu-mot-minh-tinh-rat-tinh",
+    "aliases": [
+      "ngu mot minh tinh rat tinh"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 221,
+    "title": "Không Thể Say",
+    "artist": "Hieuthuhai",
+    "url": "https://www.youtube.com/watch?v=i0nd3NPJ4MI",
+    "slug": "khong-the-say",
+    "aliases": [
+      "khong the say"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 222,
+    "title": "Hẹn Gặp Em Dưới Ánh Trăng",
+    "artist": "HURRYKNG, HIEUTHUHAI, MANBO",
+    "url": "https://www.youtube.com/watch?v=dLmczwDCEZI",
+    "slug": "hen-gap-em-duoi-anh-trang",
+    "aliases": [
+      "hen gap em duoi anh trang"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 223,
+    "title": "HÍT VÀO THỞ RA",
+    "artist": "MIN X HIEUTHUHAI",
+    "url": "https://www.youtube.com/watch?v=Q3xlEH3_HGA",
+    "slug": "hit-vao-tho-ra",
+    "aliases": [
+      "hit vao tho ra"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 224,
+    "title": "Hẹn Lần Sau",
+    "artist": "MAYDAYs",
+    "url": "https://www.youtube.com/watch?v=wKIt5vBSW-4",
+    "slug": "hen-lan-sau",
+    "aliases": [
+      "hen lan sau"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 225,
+    "title": "Phép Màu",
+    "artist": "Mounter x MAYDAYs, Minh Tốc",
+    "url": "https://www.youtube.com/watch?v=jPjQJYKhhk4",
+    "slug": "phep-mau",
+    "aliases": [
+      "phep mau"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 226,
+    "title": "Cứ Chill Thôi",
+    "artist": "Chillies ft. Suni Hạ Linh & Rhymastic",
+    "url": "https://www.youtube.com/watch?v=LZN4I3K8SC0",
+    "slug": "cu-chill-thoi",
+    "aliases": [
+      "cu chill thoi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 227,
+    "title": "Mascara",
+    "artist": "Chillies x BLAZE",
+    "url": "https://www.youtube.com/watch?v=ntEoGvhoVac",
+    "slug": "mascara",
+    "aliases": [
+      "mascara"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 228,
+    "title": "Vùng Ký Ức",
+    "artist": "Chillies",
+    "url": "https://www.youtube.com/watch?v=T0sHaz4H9MQ",
+    "slug": "vung-ky-uc",
+    "aliases": [
+      "vung ky uc"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 229,
+    "title": "Qua Khung Cửa Sổ",
+    "artist": "Chillies",
+    "url": "https://www.youtube.com/watch?v=OmmbiyE-d4Q",
+    "slug": "qua-khung-cua-so",
+    "aliases": [
+      "qua khung cua so"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 230,
+    "title": "Em Đừng Khóc",
+    "artist": "Chillies",
+    "url": "https://www.youtube.com/watch?v=zZWICdCVKXo",
+    "slug": "em-dung-khoc",
+    "aliases": [
+      "em dung khoc"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 231,
+    "title": "GIẤC MƠ KHÁC",
+    "artist": "Chillies",
+    "url": "https://www.youtube.com/watch?v=WfGn1yTL8TI",
+    "slug": "giac-mo-khac",
+    "aliases": [
+      "giac mo khac"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 232,
+    "title": "Sunkissed",
+    "artist": "Chillies ft. Châu Bùi",
+    "url": "https://www.youtube.com/watch?v=a7rRh0rzA_E",
+    "slug": "sunkissed",
+    "aliases": [
+      "sunkissed"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 233,
+    "title": "TRÊN NHỮNG ĐÁM MÂY",
+    "artist": "chillies",
+    "url": "https://www.youtube.com/watch?v=7Wg5wz7bLZM",
+    "slug": "tren-nhung-dam-may",
+    "aliases": [
+      "tren nhung dam may"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 234,
+    "title": "ĐẠI LỘ MẶT TRỜI",
+    "artist": "Chillies",
+    "url": "https://www.youtube.com/watch?v=lMKfZwnHzig",
+    "slug": "dai-lo-mat-troi",
+    "aliases": [
+      "dai lo mat troi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 235,
+    "title": "ĐƯỜNG CHÂN TRỜI",
+    "artist": "Chillies",
+    "url": "https://www.youtube.com/watch?v=HTSqRkVpL9E",
+    "slug": "duong-chan-troi",
+    "aliases": [
+      "duong chan troi"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  },
+  {
+    "id": 236,
+    "title": "ngày mùa đông",
+    "artist": "Chillies",
+    "url": "https://www.youtube.com/watch?v=54XBniawjJw",
+    "slug": "ngay-mua-dong",
+    "aliases": [
+      "ngay mua dong"
+    ],
+    "year_override": null,
+    "difficulty_override": null
+  }
+]
